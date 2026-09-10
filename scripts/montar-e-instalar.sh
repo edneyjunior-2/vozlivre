@@ -29,6 +29,7 @@ rm -rf "$APP_PATH"
 mkdir -p "$APP_PATH/Contents/MacOS" "$APP_PATH/Contents/Resources"
 cp "$PROJ/.build/release/VozLivre" "$APP_PATH/Contents/MacOS/VozLivre"
 cp "$PROJ/Info.plist" "$APP_PATH/Contents/Info.plist"
+cp "$PROJ/assets/AppIcon.icns" "$APP_PATH/Contents/Resources/AppIcon.icns"
 
 echo "==> 3/5 Embutindo os modelos…"
 cp "$PROJ/Vendor/whisper/ggml-large-v3-q5_0.bin" "$APP_PATH/Contents/Resources/"

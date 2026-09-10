@@ -1,8 +1,14 @@
-# VozLivre
+<p align="center">
+  <img src="assets/logo.png" width="140" alt="VozLivre">
+</p>
 
-**Você fala, o computador escreve. Tudo dentro do seu Mac.**
+<h1 align="center">VozLivre</h1>
 
-> Falar é mais rápido do que digitar.
+<p align="center"><b>Você fala, o computador escreve. Tudo dentro do seu Mac.</b></p>
+
+<p align="center"><i>Falar é mais rápido do que digitar.</i></p>
+
+---
 
 Aperta **Caps Lock duas vezes**, fala, aperta de novo. O texto aparece onde o cursor
 estiver — no e-mail, no WhatsApp, no editor de código, em qualquer lugar.
