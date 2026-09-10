@@ -1,0 +1,11 @@
+# Build
+.build/
+build/
+*.dSYM/
+
+# Motor e modelos: gerados/baixados por scripts/preparar.sh.
+# Os modelos têm entre 1 e 3 GB e não cabem no Git.
+Vendor/
+
+# macOS
+.DS_Store
